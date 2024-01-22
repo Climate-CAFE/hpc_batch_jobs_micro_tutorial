@@ -21,7 +21,7 @@ To see an example of distributed computing via bash scripting, please see the co
 
 The general process is illustrated in the figure below:
 
-[PLACEHOLDER FOR SCHEMATIC FIGURE]
+![Schematic of distributed processing on a computing cluster](https://github.com/Climate-CAFE/tutorials_working/blob/main/bash_scripting/figures/distributed_processing_schematic.png)
 
 *R logo image credit*: © 2016 The R Foundation, reproduced under [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) and obtained from https://www.r-project.org/logo/
 *BASH logo image credit*: © 2016 Free Software Foundation, reproduced under [Free Art License 1.3](https://artlibre.org/licence/lal/en/) and obtained from https://github.com/odb/official-bash-logo?tab=readme-ov-file. The logo has been placed unmodified within the icon of the sheet of paper to represent a bash script.
