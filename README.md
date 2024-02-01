@@ -17,7 +17,7 @@ Suppose you have a script containing code to process average daily fine particul
 ## Working Example of Bash Scripting
 Although command-line interfaces can seem intimidating, they are actually quite straightforward. It is well worth the investment of time to learn the syntax of CLI and bash scripting for anyone who works with big data.
 
-To see an example of distributed computing via bash scripting, please see the Climate CAFÉ tutorial entitled [**"Overview of ZIP Codes and Zip Code Tabulation Areas (ZCTAs)"**](https://github.com/Climate-CAFE/zip_codes_and_zctas). This tutorial provides an example of creating a census-block-to-ZCTA crosswalk separately and simultaneously for each state. The syntax and process will be similar for any other application of distributed computing, though you should note that the exact syntax used may differ slightly depending on the computing cluster's operating system (OS).
+To see an example of distributed computing via bash scripting, please see the Climate CAFÉ tutorial on [**ZIP Codes and Zip Code Tabulation Areas (ZCTAs)**](https://github.com/Climate-CAFE/zip_codes_and_zctas). This tutorial provides example code for creating a census-block-to-ZCTA crosswalk separately and simultaneously for each state. The code files are located in the `crosswalks` subdirectory of the tutorial repository ([click here](https://github.com/Climate-CAFE/zip_codes_and_zctas/tree/main/crosswalks) for a direct link). The syntax and process will be similar for any other application of distributed computing, though you should note that the exact syntax used may differ slightly depending on the computing cluster's operating system (OS).
 
 The general process is illustrated in the figure below:
 
